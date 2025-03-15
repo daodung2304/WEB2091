@@ -29,6 +29,16 @@ function Layout() {
                   ➕ Thêm sách
                 </Link>
               </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="/users">
+                  👤 Quản lý người dùng
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="/orders">
+                  🛒 Quản lý đơn hàng
+                </Link>
+              </li>
             </ul>
             <ul className="navbar-nav">
               <li className="nav-item">
@@ -60,6 +70,16 @@ function Layout() {
             <li className="nav-item">
               <Link className="nav-link text-light" to="/book/add">
                 ➕ Thêm sách
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link className="nav-link text-light" to="/users">
+                👤 Quản lý người dùng
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link className="nav-link text-light" to="/orders">
+                🛒 Quản lý đơn hàng
               </Link>
             </li>
           </ul>

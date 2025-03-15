@@ -39,14 +39,6 @@
       "price": 450000,
       "description": "Một cuốn sách hướng dẫn chi tiết về JavaScript dành cho lập trình viên.",
       "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD..."
-    },
-    {
-      "id": 6,
-      "name": "The Mythical Man-Month",
-      "author": "Frederick P. Brooks Jr.",
-      "price": 620000,
-      "description": "Những bài học quan trọng về quản lý dự án phần mềm.",
-      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD..."
     }
   ],
   "orders": [
