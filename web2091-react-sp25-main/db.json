@@ -1,0 +1,77 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 500000,
+      "description": "Cuốn sách hướng dẫn lập trình sạch và có tổ chức.",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR9GXIVe_G1IoxBqoM6Qee7oHZgBmTVFVrQl1r4IYNuh31M0JpSNBBO43UmKwkzVkl1j0YKTyT8slboIbWkfQb9ORd6LhQ-6TI4FpURE-Y&usqp=CAc"
+    },
+    {
+      "id": 2,
+      "name": "The Pragmatic Programmer",
+      "author": "Andrew Hunt & David Thomas",
+      "price": 600000,
+      "description": "Những kinh nghiệm thực tiễn trong lập trình phần mềm.",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": 3,
+      "name": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 550000,
+      "description": "Cuốn sách hướng dẫn viết mã nguồn sạch, dễ đọc và bảo trì.",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD..."
+    },
+    {
+      "id": 4,
+      "name": "You Don't Know JS",
+      "author": "Kyle Simpson",
+      "price": 500000,
+      "description": "Bộ sách chuyên sâu về JavaScript giúp bạn hiểu rõ hơn về ngôn ngữ này.",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD..."
+    },
+    {
+      "id": 5,
+      "name": "Eloquent JavaScript",
+      "author": "Marijn Haverbeke",
+      "price": 450000,
+      "description": "Một cuốn sách hướng dẫn chi tiết về JavaScript dành cho lập trình viên.",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD..."
+    },
+    {
+      "id": 6,
+      "name": "The Mythical Man-Month",
+      "author": "Frederick P. Brooks Jr.",
+      "price": 620000,
+      "description": "Những bài học quan trọng về quản lý dự án phần mềm.",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD..."
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "customer": {
+        "name": "Nguyễn Văn A",
+        "phone": "0987654321",
+        "address": "Hà Nội, Việt Nam"
+      },
+      "products": [
+        {
+          "productId": 1,
+          "quantity": 1
+        }
+      ],
+      "status": "pending"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@example.com",
+      "password": "hashed_password"
+    }
+  ]
+}
